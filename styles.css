@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+input{
+	margin-bottom: 10px;
+}
+#submit{
+	margin-top: 10px;
+}
